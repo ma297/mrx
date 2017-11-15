@@ -1,0 +1,5 @@
+#include（）{
+  print（hello c）
+  return 0
+}
+
